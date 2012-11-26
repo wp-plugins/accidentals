@@ -1,0 +1,1 @@
+(function(c){var a=!1,b="body";window.accidentals&&(a=window.accidentals,a.hasOwnProperty("target")&&(b=a.target),a.hasOwnProperty("safeMode")&&(a.safeMode=parseInt(a.safeMode,10)));c(b).accidentals(a)})(jQuery);
